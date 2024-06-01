@@ -1,0 +1,21 @@
+{
+  "name": "non-number-guessing",
+  "version": "1.0.1",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "publishConfig": {},
+  "bin": "main.js",
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.23",
+    "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^20.13.0"
+  }
+}
